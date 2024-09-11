@@ -37,10 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3uj9dtnOWf63wuL9Hech-3" value="&lt;b&gt;Persona&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="930" width="100" height="44" as="geometry" />
+          <mxGeometry x="170" y="937" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="3uj9dtnOWf63wuL9Hech-4" value="&lt;b&gt;Administrativo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="369" width="100" height="46" as="geometry" />
+          <mxGeometry x="600" y="360" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="-E-6xSp3zLx3lU_JsxDd-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="rtoRlGTTKdL7VZsekByU-1" target="-E-6xSp3zLx3lU_JsxDd-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
