@@ -258,8 +258,8 @@
             <mxPoint x="390" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vODttAvqWpY4VJm_xrX_-22" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;is any&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="938.81" width="60" height="40.38" as="geometry" />
+        <mxCell id="vODttAvqWpY4VJm_xrX_-22" value="Puede ser" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="935.2" width="80" height="48.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
