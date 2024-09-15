@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1488" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,10 +110,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1570" y="1020" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1618" y="770" />
-              <mxPoint x="1128" y="770" />
-              <mxPoint x="1128" y="850" />
-              <mxPoint x="650" y="850" />
+              <mxPoint x="1617" y="770" />
+              <mxPoint x="720" y="770" />
+              <mxPoint x="720" y="820" />
+              <mxPoint x="650" y="820" />
               <mxPoint x="650" y="931" />
             </Array>
           </mxGeometry>
