@@ -729,12 +729,21 @@
           <mxGeometry x="1390" y="741.5" width="30" height="13.5" as="geometry" />
         </mxCell>
         <mxCell id="Q7hywxFGkSxKuPMElSSo-132" value="Vacantes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="808.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="832.5" y="812" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q7hywxFGkSxKuPMElSSo-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7hywxFGkSxKuPMElSSo-127" target="Q7hywxFGkSxKuPMElSSo-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="840" as="sourcePoint" />
             <mxPoint x="790" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q7hywxFGkSxKuPMElSSo-137" value="Salas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="916.25" y="812" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7hywxFGkSxKuPMElSSo-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q7hywxFGkSxKuPMElSSo-127" target="Q7hywxFGkSxKuPMElSSo-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="780" as="sourcePoint" />
+            <mxPoint x="891" y="822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
