@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1302" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1202" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,9 +118,6 @@
         </mxCell>
         <mxCell id="rtoRlGTTKdL7VZsekByU-3" value="&lt;b&gt;cursos&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1567.5" y="1140.75" width="100" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="-E-6xSp3zLx3lU_JsxDd-1" value="Ciclos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="370" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-E-6xSp3zLx3lU_JsxDd-2" value="Oferta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="152.5" width="100" height="45" as="geometry" />
@@ -312,9 +309,6 @@
         </mxCell>
         <mxCell id="-q_G7Tmg-ONIqC2OC5vG-4" value="&lt;u&gt;Cursos&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="1147.75" width="75" height="26.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-q_G7Tmg-ONIqC2OC5vG-7" value="Ciclos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="137.5" y="377.5" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-q_G7Tmg-ONIqC2OC5vG-24" value="Curso" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="160" width="60" height="30" as="geometry" />
