@@ -479,10 +479,10 @@
             <mxPoint x="915" y="988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7hywxFGkSxKuPMElSSo-27" value="Jerarquía&lt;div&gt;(str)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7hywxFGkSxKuPMElSSo-27" value="Diurno" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1072" width="70" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Q7hywxFGkSxKuPMElSSo-28" value="Jerarquía&lt;div&gt;(str)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7hywxFGkSxKuPMElSSo-28" value="Vespertino" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="1072" width="70" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Q7hywxFGkSxKuPMElSSo-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q7hywxFGkSxKuPMElSSo-27" target="3uj9dtnOWf63wuL9Hech-2">
