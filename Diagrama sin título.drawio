@@ -425,7 +425,22 @@
           <mxGeometry x="630" y="543.5" width="60" height="73" as="geometry" />
         </mxCell>
         <mxCell id="_hXt0ZtncEYP2eF8u2ab-147" value="Cliente-Servidor entre&lt;div&gt;App y LegitSport Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="542.5" y="143" width="60" height="73" as="geometry" />
+          <mxGeometry x="590" y="143" width="60" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-148" value="Sistema que aplica&lt;div&gt;&quot;Basado en reglas&quot;&lt;/div&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="397" width="60" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-149" value="&lt;div&gt;Los sensores siguen el&lt;/div&gt;&lt;div&gt;estilo &quot;Basado&lt;/div&gt;&lt;div&gt;en eventos&quot;&lt;/div&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="395" y="50" width="60" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-150" value="&lt;div&gt;Siguen el principio&lt;/div&gt;&lt;div&gt;&quot;Fire and Forget&quot;&lt;/div&gt;&lt;div&gt;visto en clases.&lt;/div&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="395" y="123" width="60" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-151" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="110.00230769230762" as="sourcePoint" />
+            <mxPoint x="425" y="139" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
