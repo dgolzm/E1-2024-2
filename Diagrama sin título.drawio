@@ -331,7 +331,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_hXt0ZtncEYP2eF8u2ab-122" value="&lt;b&gt;PersonalData&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-122" value="&lt;b&gt;PersonalDataHolder&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="415" y="450" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_hXt0ZtncEYP2eF8u2ab-123" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_hXt0ZtncEYP2eF8u2ab-122">
