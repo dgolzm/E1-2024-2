@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1927" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2412" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -989,6 +989,12 @@
               <mxPoint x="-70" y="630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-325" value="&lt;div&gt;El MotorSelector&lt;/div&gt;&lt;div&gt;se encarga de la&amp;nbsp;&lt;/div&gt;&lt;div&gt;selección de motor&amp;nbsp;&lt;/div&gt;&lt;div&gt;en base&lt;span style=&quot;background-color: initial;&quot;&gt;a los datos del&lt;/span&gt;&lt;/div&gt;&lt;div&gt;AuctionManager&lt;/div&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="848.5" width="60" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="_hXt0ZtncEYP2eF8u2ab-327" value="&lt;div&gt;Se utiliza el estilo P&amp;amp;F&lt;/div&gt;&lt;div&gt;para generar packs de&amp;nbsp;&lt;/div&gt;&lt;div&gt;fotos&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;de alta calidad&lt;/span&gt;&lt;/div&gt;&lt;div&gt;y evitar&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;procesamient&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;o&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de más&lt;/span&gt;&lt;/div&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="60" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
